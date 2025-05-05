@@ -1,0 +1,1 @@
+# csi3140-assignment-1--detailed-project-descriptions-and-static-user-interface-solved
